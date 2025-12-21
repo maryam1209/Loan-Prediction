@@ -8,7 +8,7 @@
 The objective of this project is to develop a highly accurate automated predictive model for a financial institution. The goal is to minimize **credit risk** (approving borrowers likely to default) while maximizing **business growth** (ensuring qualified applicants are not unnecessarily rejected). By transitioning from manual review to an algorithmic approach, the bank aims to improve decision consistency and operational efficiency. 
 
 ## 2. Dataset Overview 
-The model was trained on a dataset containing 4,000 loan applications with the following characteristics: 
+The model was trained on a dataset containing 20,000 loan applications with the following characteristics: 
 * **Target Variable:** Loan Status (0 for Reject, 1 for Approve). 
 * **Key Features:** Includes financial metrics (Annual Income, Total Debt, Net Worth, Savings Balance) and credit history (Risk Score, Credit Card Utilization, Length of Credit History). 
 * **Data Split:** The data was partitioned into a Training Set (80%) and a Test Set (20%) to ensure unbiased evaluation. 
