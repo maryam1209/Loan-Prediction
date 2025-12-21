@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction Model
+# Loan Approval Prediction Model
 
 > **A Machine Learning Predictive Model using Random Forest to assess credit risk with 99.9% ROC-AUC accuracy.**
 
